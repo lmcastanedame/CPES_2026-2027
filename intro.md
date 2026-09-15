@@ -95,11 +95,32 @@ Dans la même enquête :
 
 ## Ce que signifie « apprendre à coder » aujourd’hui
 
-| Avant, l’accent était surtout mis sur…	| Aujourd’hui, il faut aussi savoir…                   |
+| Avant, l’accent était surtout mis sur…. | Aujourd’hui, il faut aussi savoir…                   |
 | --------------------------------------- | ---------------------------------------------------- |
-| Mémoriser la syntaxe                    | 	Lire et modifier du code généré                    |
+| Mémoriser la syntaxe                    | Lire et modifier du code généré                      |
 | Écrire chaque ligne soi-même	          | Décrire précisément le résultat attendu              |
-| Trouver une solution qui fonctionne	    | Construire des tests qui tentent de la faire échouer |
+| Trouver une solution qui fonctionne	  | Construire des tests qui tentent de la faire échouer |
 | Corriger ses propres erreurs	          | Détecter les erreurs plausibles d’une IA             | 
 | Réaliser un programme	                  | Expliquer ses choix et ses limites                   |
 | Connaître un langage	                  | Combiner programmation, métier et outils d’IA        |
+
+---
+
+# 📅 Calendrier du cours
+
+| Séance | Date  | Thèmes                                     |
+|:------:|:----: |--------------------------------------------|
+| **1**  | 16/09 | Variables, `print()` et listes             |
+| **2**  | 30/09 | Conditions, boucles et tests               |
+| **3**  | 14/10 | Fichiers, fonctions et dictionnaires       |
+| **4**  | 11/11 | Modules et organisation d’un projet Python |
+| **5**  | 25/11 | Présentations des projets                  |
+| **6**  | 09/12 | Présentations des projets                  |
+| **7**  | 06/01 | Exercices de préparation à l’examen        |
+| **8**  | 20/01 | Examen final                               |
+
+---
+
+### 🚀 Projet du semestre
+
+À chaque séance, vous ajouterez de nouvelles fonctionnalités à votre projet en utilisant les notions apprises.
