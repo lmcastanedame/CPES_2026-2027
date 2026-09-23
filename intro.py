@@ -9,36 +9,36 @@
 
 # 1
 
-print("=== CARNET DE TERRAIN ===")
-print("Zone : Savane nord")
-print("Température : 28.6 °C")
+# print("=== CARNET DE TERRAIN ===")
+# print("Zone : Savane nord")
+# print("Température : 28.6 °C")
 
+zone = "Savane nord"
+temperature = 28.6
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# zone = "Savane nord"
-# temperature = 28.6
 
 # print("=== CARNET DE TERRAIN ===")
 # print(zone)
 # print(temperature)
 # mission_active = True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -80,7 +80,7 @@ print("Température : 28.6 °C")
 # espece3 = "singe"
 # espece4 = "souris"
 
-# especes = ["girafe", "tigre", "singe", "souris"]
+especes = ["girafe", "tigre", "singe", "souris"]
 # print(especes)
 
 # print(especes[0])
@@ -92,7 +92,7 @@ print("Température : 28.6 °C")
 
 # 5 
 
-# especes.append("lion")
+especes.append("lion")
 # print(especes)
 # print(len(especes))
 
@@ -100,22 +100,22 @@ print("Température : 28.6 °C")
 
 # 6
 
-# observations = [4, 2, 5, 1, 3, 2]
-# nombre_especes = len(especes)
-# total_animaux = sum(observations)
-# minimum = min(observations)
-# maximum = max(observations)
-# moyenne = total_animaux / nombre_especes
+observations = [4, 2, 5, 1, 3, 2]
+nombre_especes = len(especes)
+total_animaux = sum(observations)
+minimum = min(observations)
+maximum = max(observations)
+moyenne = total_animaux / nombre_especes
 
 
 
 
 # 7
 
-# print("\n=== CARNET DE TERRAIN ===")
-# print(f"Zone : {zone}")
-# print(f"Température : {temperature:.1f} °C")
-# print(f"Espèces observées : {especes}")
-# print(f"Nombre d'espèces : {nombre_especes}")
-# print(f"Total d'animaux observés : {total_animaux}")
-# print(f"Moyenne par espèce : {moyenne:.2f}")
+print("\n=== CARNET DE TERRAIN ===")
+print(f"Zone : {zone}")
+print(f"Température : {temperature:.1f} °C")
+print(f"Espèces observées : {especes}")
+print(f"Nombre d'espèces : {nombre_especes}")
+print(f"Total d'animaux observés : {total_animaux}")
+print(f"Moyenne par espèce : {moyenne:.2f}")

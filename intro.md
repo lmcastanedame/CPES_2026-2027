@@ -106,21 +106,72 @@ Dans la même enquête :
 
 ---
 
-# 📅 Calendrier du cours
+# Calendrier du cours
 
 | Séance | Date  | Thèmes                                     |
 |:------:|:----: |--------------------------------------------|
-| **1**  | 16/09 | Variables, `print()` et listes             |
-| **2**  | 30/09 | Conditions, boucles et tests               |
-| **3**  | 14/10 | Fichiers, fonctions et dictionnaires       |
-| **4**  | 11/11 | Modules et organisation d’un projet Python |
-| **5**  | 25/11 | Présentations des projets                  |
-| **6**  | 09/12 | Présentations des projets                  |
-| **7**  | 06/01 | Exercices de préparation à l’examen        |
-| **8**  | 20/01 | Examen final                               |
+| **1**  | 23/09 | Variables, `print()` et listes             |
+| **2**  | 07/10 | Conditions, boucles et tests               |
+| **3**  | 03/11 | Fichiers, fonctions et dictionnaires       |
+| **4**  | 18/11 | Modules et organisation d’un projet Python |
+| **5**  | 02/12 | Présentations des projets                  |
+| **6**  | 16/12 | Présentations des projets                  |
+| **7**  | 13/01 | Examen final                               |
+
+> **Calendrier prévisionnel** 
 
 ---
 
-### 🚀 Projet du semestre
+# Projet du semestre 
 
-À chaque séance, vous ajouterez de nouvelles fonctionnalités à votre projet en utilisant les notions apprises.
+<div style="font-size: 22px;">
+
+À la fin du semestre, votre projet devra être un **programme Python complet et fonctionnel**.
+
+| Élément | Ce que j'attends |
+|---|---|
+| **Objectif** | Un objectif clair et un programme utilisable |
+| **Données** | Listes et/ou dictionnaires pour organiser les données |
+| **Logique** | Conditions et boucles utilisées de manière pertinente |
+| **Fonctions** | Code décomposé et organisé en fonctions |
+| **Fichiers & modules** | Lecture/sauvegarde de données et plusieurs fichiers `.py` |
+| **Tests** | Tests permettant de vérifier le fonctionnement du programme |
+
+</div>
+
+<br>
+
+> 💡 **À chaque séance, vous aurez de nouveaux outils pour compléter votre projet.**
+
+---
+
+## Comment le projet sera-t-il évalué ?
+
+| Fonctionnalité (50 % du projet) | Présentation (50 % du projet) |
+|---|---|
+| Le programme fonctionne | Objectif du projet clairement expliqué |
+| Les notions du cours sont utilisées | Démonstration du programme |
+| Le code est organisé et lisible | Explication des choix réalisés |
+| Les cas principaux sont testés | Capacité à expliquer le code |
+| Le projet respecte les consignes | Limites / améliorations possibles |
+
+---
+
+### Le projet évoluera avec le cours
+
+| Séance | Vous pourrez ajouter... |
+|:---:|---|
+| **1** | Données du projet avec **variables et listes** + affichage |
+| **2** | Interactions, choix et répétitions avec **conditions et boucles** |
+| **3** | **Fonctions**, dictionnaires et **sauvegarde/lecture de fichiers** |
+| **4** | Organisation du code en plusieurs fichiers avec des **modules** |
+| **5** | Finalisation, tests, corrections et préparation de la présentation |
+
+---
+
+## 📊 Évaluation
+
+- **40 % — Examen final**
+- **60 % — Projet du semestre**
+  - **30 % — Fonctionnalité du projet**
+  - **30 % — Présentation du projet**
