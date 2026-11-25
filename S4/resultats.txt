@@ -1,0 +1,3 @@
+Moyenne : 14.12
+Minimum : 5.50
+Maximum : 29.00
